@@ -2,3 +2,4 @@
 .env
 *.code-workspace
 logs.txt
+*.pem
